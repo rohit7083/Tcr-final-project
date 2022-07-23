@@ -1,4 +1,3 @@
-# Tcr-final-project
 Portuguese Bank Marketing Data Analysis
 Running a machine learning analysis on Portuguese bank data to evaluate a customer's likelihood of subscribing to a term deposit.
 
@@ -28,4 +27,4 @@ Built With
 SKLearn, VScode, Jupyter Notebook, Seaborn, Numpy, Pandas
 
 Authors
-Krish Patil
+Rohit Sonawane
